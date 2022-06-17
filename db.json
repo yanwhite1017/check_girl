@@ -1,0 +1,37 @@
+[
+    {
+        "user": "5056294500",
+        "balance": 10,
+        "subscribe": true
+    },
+    {
+        "user": "618541615",
+        "balance": 0,
+        "subscribe": false
+    },
+    {
+        "user": "696197072",
+        "balance": 0,
+        "subscribe": false
+    },
+    {
+        "user": "1069455518",
+        "balance": 0,
+        "subscribe": false
+    },
+    {
+        "user": "406566888",
+        "balance": 0,
+        "subscribe": false
+    },
+    {
+        "user": "650746371",
+        "balance": 0,
+        "subscribe": false
+    },
+    {
+        "user": "5056294500",
+        "balance": 0,
+        "subscribe": false
+    }
+]
