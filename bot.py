@@ -10,7 +10,7 @@ import config as cfg
 
 
 def main():
-	
+	print('Starting bot check_girl')
 
 	bot = telebot.TeleBot(cfg.TELE_TOKEN)
 	
